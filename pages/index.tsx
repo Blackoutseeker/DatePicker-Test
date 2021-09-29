@@ -4,7 +4,6 @@ import Head from 'next/head'
 import DatePicker, { DateObject } from 'react-multi-date-picker'
 import type { Value } from 'react-multi-date-picker'
 import DatePanel from 'react-multi-date-picker/plugins/date_panel'
-// @ts-ignore
 import styles from '../styles/Home.module.css'
 
 const HomePage: NextPage = () => {
